@@ -6,5 +6,5 @@
 ```
 
 ```python
-    print("samr thing but in python")
+    print("same thing but in python")
 ```
